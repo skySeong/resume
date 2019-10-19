@@ -1,6 +1,6 @@
-#성하늘 hanulSeong
+성하늘 hanulSeong
 =============================
-##iOS Developer
+iOS Developer
 - Mail : blissDevelop.sky@gmail.com
 - github : https://github.com/hanulSeong
 
