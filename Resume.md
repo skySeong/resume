@@ -6,12 +6,14 @@ iOS Developer
 
 
 
-##Experience
+Experience
+--------------------------------
 Finger : 2017.07 ~ NOW
 
 
-##Projects
 
+Projects
+--------------------------------------
 ![icons](https://github.com/sky/Desktop/Project/resume/images/icon_1024.png)
 
 신한 쏠(SOL)
@@ -23,6 +25,7 @@ Finger : 2017.07 ~ NOW
 - 개발기간 : 2017.12 ~ 2018.02
 
 
-##Education
-### 단국대학교(천안) 컴퓨터과학과
+Education
+-------------------------------------------
+ 단국대학교(천안) 컴퓨터과학과
  
