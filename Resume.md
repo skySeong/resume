@@ -2,7 +2,7 @@
 =============================
 iOS Developer
 - Mail : blissDevelop.sky@gmail.com
-- github : https://github.com/hanulSeong
+- github : https://github.com/skySeong
 
 
 
@@ -19,7 +19,7 @@ Projects
 - 회사 : Finger
 - 언어 : Objective C, Swift
 - 담당업무 : 메인UI, 인터페이스 기능 개발
-- 사용라이브러리 및 기술 : Autolayout, UIKit, Pod, 자체 라이브러리
+- 사용라이브러리 및 기술 : Firebase, Autolayout, UIKit, Pod, 자체 라이브러리
 - 기간 : 2019.05 ~ 현재
 
 신한 쏠(SOL)
