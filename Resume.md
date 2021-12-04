@@ -8,7 +8,7 @@ iOS Developer
 
 Experience
 --------------------------------
-Finger : 2017.07 ~ NOW
+Finger : 2017.07 ~ 2021.04
 
 
 
@@ -20,7 +20,7 @@ Projects
 - 언어 : Objective C, Swift
 - 담당업무 : 메인UI, 인터페이스 기능 개발
 - 사용라이브러리 및 기술 : Firebase, Autolayout, UIKit, Pod, 자체 라이브러리
-- 기간 : 2019.05 ~ 현재
+- 기간 : 2019.05 ~ 2021.06
 
 신한 쏠(SOL)
 
